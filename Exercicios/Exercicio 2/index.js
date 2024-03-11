@@ -13,4 +13,4 @@ let imc = peso / (alturaEmCm * alturaEmCm);
 console.log(nome, sobrenome, "tem", idade, "anos, pesa", peso, "tem", alturaEmCm, "de altura e seu indice de massa corporal é de", imc);
 console.log(nome, sobrenome, "Nasceu em", anoDeNascimento);
 
-// Utilizando Crase (`) as const e let, devem ser chamadas com ${} 
+// Utilizando Crase (`) as const e let, devem ser chamadas com ${} TemplateStrings 

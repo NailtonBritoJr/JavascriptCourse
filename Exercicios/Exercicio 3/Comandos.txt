@@ -1,0 +1,4 @@
+.confirm (Caixa de confirmação) //Retorna valor
+.alert (Caixa de alerta)
+.prompt (Caixa com input de texto) //Retorna valor
+Funcional no navegador
